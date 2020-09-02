@@ -45,7 +45,7 @@ const students = [
     id: 'student7',
     name: 'Harry Potter',
     picture:
-      'https://vignette.wikia.nocookie.net/harrypotter/images/c/c2/HarrywithNimbus.jpg/revision/latest?cb=20090723155006',
+      'https://cnet2.cbsistatic.com/img/LV5VW_fBoAHuvPmH8FWKytvrLys=/1200x675/2018/10/09/15cb0b37-898c-45a8-8c45-d34289910afc/harrypotterquidditch.jpg',
     houseId: 'house1',
   },
   {
